@@ -2,13 +2,14 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  font-style: oblique;
+  font-family: "Lato", sans-serif;
   font-weight: 600;
+  font-style: oblique;
 }
 
 .sectionOne {
-  padding: 3% 4%;
-  margin: 15%;
+  padding: 3% 2%;
+  margin: 20%;
   border-radius: 20px;
   box-shadow: 0 4px 40px rgba(0, 0, 0, 0.2);
 }
@@ -19,29 +20,28 @@
 }
 
 .divTwo h1 {
-  color: rgb(57, 73, 245);
+  color:#FF692A;
 }
 
 .divTwo p {
   background-color: white;
-  color: rgb(57, 73, 245);
 }
 
 .divTwo label {
   background-color: transparent;
-  color: rgb(57, 73, 245);
+  color: #FF692A;
 }
 
 .divTwo button {
-  margin-left: 83%;
+  margin-left: 80%;
   margin-top: 10%;
 }
 
 .divThree {
-    position: absolute;
-    margin-left: 7%;
+  position: absolute;
+  margin-left: 7%;
 }
 
-.divThree h5{
-    color: black;
+.divThree h5 {
+  color: black;
 }
