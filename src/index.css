@@ -1,0 +1,45 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.sectionOne {
+  padding: 3% 4%;
+  margin: 15%;
+  border-radius: 20px;
+  box-shadow: 0 4px 40px rgba(0, 0, 0, 0.2);
+}
+
+.divTwo {
+  margin: 8%;
+  height: 400px;
+}
+
+.divTwo h1 {
+  color: rgb(57, 73, 245);
+}
+
+.divTwo p {
+  background-color: white;
+  color: rgb(57, 73, 245);
+}
+
+.divTwo label {
+  background-color: transparent;
+  color: rgb(57, 73, 245);
+}
+
+.divTwo button {
+  margin-left: 83%;
+  margin-top: 10%;
+}
+
+.divThree {
+    position: absolute;
+    margin-left: 7%;
+}
+
+.divThree h5{
+    color: black;
+}
